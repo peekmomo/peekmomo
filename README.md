@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://www.yuque.com/coderxiaoluo">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小波同学祝您今天愉快!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22)">
   </a>
 </h1>
 
@@ -27,10 +27,6 @@
 </div>
 
 <!--logo-->
-<div align="center">
-  <img src="https://camo.githubusercontent.com/d54ca50cae015718e5eaa0af525cfab09871f3280ec2585f2881f5293a764318/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d70732c61692c70722c632c6370702c63732c74732c646973636f72642c747769747465722c6d6f6e676f64622c696e7374616772616d2c696465612c676974" style="vertical-align: middle; margin-right: 8px;" alt="项目 Logo" />
-</div>
-
 <!-- 居中排列的技术图标：React + VS Code + Vue + JavaScript + GitHub -->
 <div align="center" style="margin: 5px 0;">
   <img src="https://camo.githubusercontent.com/d2d8dcc68688032479eca31d5729f64a696d098688b741beac25f806860153bf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f6373736769662e77656270" alt="CSS Icon" style="width: 80px; height: 80px;"/>
