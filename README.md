@@ -37,6 +37,6 @@
   <img src="https://camo.githubusercontent.com/add047372b66b72c90bf7bda61bf0f9e23a749eadb573bdc494697b6550e2dca/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f6769746875622e77656270" alt="GitHub Icon" style="width: 80px; height: 80px; vertical-align: middle; margin: 0 20px;" />
 </div>
 
-<!--logo2-->
-<img src="https://camo.githubusercontent.com/ff5b06ad7c6c8f45b6700fe35baffc517708189ac104621d60f5f9e0142685d8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67" style="vertical-align: middle; margin-right: 8px;" alt="项目 Logo" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peekmomo&layout=compact&theme=tokyonight)
+<div align="center" style="background-color: white; padding: 10px; margin-top: 40px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peekmomo&layout=compact&theme=tokyonight" alt="Top Langs" />
+</div>
