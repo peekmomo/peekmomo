@@ -40,3 +40,39 @@
 <div align="center" style="background-color: white; padding: 10px; margin-top: 40px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peekmomo&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+
+
+  - 🚀 I use daily:
+    ![Java](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
+    ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+    ![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
+    ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)
+    ![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)
+    ![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)
+    ![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)
+    ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+    
+- 💻 I work using:
+  ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
+  ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
+  ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+  ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+
+  
+  
+- ⚙️ I also use and work:
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
+  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+  ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+  ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+  ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+  
+- 🌱 I’m currently learning:
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=flat)
+  ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff&style=flat)
+
